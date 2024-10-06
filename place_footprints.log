@@ -1,0 +1,20 @@
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'linux'
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.12.5 (main, Aug  9 2024, 08:20:41) [GCC 14.2.1 20240805]'
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.5
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x7b00f403c290>
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint H4 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint H2 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint JP1 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U1 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C4 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C6 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C1 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C3 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C7 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C8 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C5 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C9 on root level
+10-06 15:59:11 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C2 on root level
